@@ -38,6 +38,11 @@
 ### 🎥 Ultimos videos de Youtube
 
 <!-- YT:START -->
+- [Servicios en Kubernetes](https://www.youtube.com/watch?v=poUAt4_u5AE)
+- [Usuarios y Roles en Kubernetes](https://www.youtube.com/watch?v=68WE6-IoMPw)
+- [Instalar varios programas en varias PC con Windows usando Ansible](https://www.youtube.com/watch?v=eQObVrEy13c)
+- [Como instalar Ansible en Windows 10](https://www.youtube.com/watch?v=7zc_lHFtttc)
+- [CI/CD con Gitlab y Minikube](https://www.youtube.com/watch?v=UjF_9gIjyKE)
 <!-- YT:END -->
 
 ➡️ [More videos...][yt]
