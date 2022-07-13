@@ -38,11 +38,11 @@
 ### 🎥 Ultimos videos de Youtube
 
 <!-- YT:START -->
+- [GitOps con ArgoCD y Gitlab-CI](https://www.youtube.com/watch?v=tFxJ4sLFKio)
 - [4 Herramientas para mejorar tu productividad en Windows](https://www.youtube.com/watch?v=6Gf4j7pERfQ)
 - [Gitlab Auto Devops | Pipelines automaticos part2](https://www.youtube.com/watch?v=OMc37EDeidM)
 - [Gitlab Auto Devops | Pipelines automaticos part1](https://www.youtube.com/watch?v=yDXRxvMQ0AU)
 - [Servicios en Kubernetes](https://www.youtube.com/watch?v=poUAt4_u5AE)
-- [Usuarios y Roles en Kubernetes](https://www.youtube.com/watch?v=68WE6-IoMPw)
 <!-- YT:END -->
 
 ➡️ [More videos...][yt]
