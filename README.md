@@ -38,11 +38,11 @@
 ### 🎥 Ultimos videos de Youtube
 
 <!-- YT:START -->
+- [Cómo funciona GitOps con ArgoCD en 2025 &lpar;explicación simple y clara&rpar;](https://www.youtube.com/watch?v=-lLhQIChNhg)
 - [Secrets en git? Parte 1 | GitOps &amp; kube sealed secrets](https://www.youtube.com/watch?v=fcaAaaIQozM)
 - [GitOps con ArgoCD y Gitlab-CI](https://www.youtube.com/watch?v=tFxJ4sLFKio)
 - [4 Herramientas para mejorar tu productividad en Windows](https://www.youtube.com/watch?v=6Gf4j7pERfQ)
 - [Gitlab Auto Devops | Pipelines automaticos part2](https://www.youtube.com/watch?v=OMc37EDeidM)
-- [Gitlab Auto Devops | Pipelines automaticos part1](https://www.youtube.com/watch?v=yDXRxvMQ0AU)
 <!-- YT:END -->
 
 ➡️ [More videos...][yt]
