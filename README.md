@@ -1,41 +1,63 @@
-### Hola, esta es mi página web [Kevo Rojas](https://kevorojas.com/)![wave](https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png)
+<div align="center">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/KevoRojas95?color=1DA1F2&label=KevoRojas95&logo=twitter&style=for-the-badge)](https://twitter.com/KevoRojas95)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=02BAD5&center=true&vCenter=true&width=650&lines=DevOps+%C2%B7+Cloud+%C2%B7+Platform+Engineer;Kubernetes+%7C+GitOps+%7C+Terraform;Comparto+lo+que+aprendo+construyendo+infra)](https://kevorojas.com)
 
-### 💻 Tech lover 🌱Aprendiendo sobre la Cultura Devops
+[![Website](https://img.shields.io/badge/kevorojas.com-02BAD5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kevorojas.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevorojas)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCh90SEOKMI2Q2ThXjvFrJag)
 
-- 🔭 Hago videos en Youtube acerca de las tecnologías que estoy aprendiendo  [Mi canal](https://www.youtube.com/channel/UCh90SEOKMI2Q2ThXjvFrJag)
-- 🌱 Actualmente estoy aprendiendo a dominar herramientas de CI/CD como Jenkins
+![Profile views](https://komarev.com/ghpvc/?username=kevorojas&color=02BAD5&style=for-the-badge&label=PROFILE+VIEWS)
 
+</div>
 
----
+## 👋 Hola, soy Kevo Rojas
 
-### 🚀 Conocimientos en:
+Ingeniero **DevOps / Cloud**. Trabajo con infraestructura en producción: **Kubernetes, GitOps y automatización**. En [YouTube](https://www.youtube.com/channel/UCh90SEOKMI2Q2ThXjvFrJag) y en [kevorojas.com](https://kevorojas.com) muestro cómo lo hago, paso a paso.
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+- 🌐 Blog bilingüe (ES / EN) de tutoriales: **Kubernetes, GitOps, CI/CD, Azure y Terraform**
+- 🎥 Videos donde construyo y explico infraestructura real
+- 📫 Escríbeme desde [kevorojas.com](https://kevorojas.com)
 
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
+## 🧰 Stack
 
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+**☁️ Cloud**
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 
-<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />
+**📦 Contenedores & Orquestación**
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png" />
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
+**🧱 Infraestructura como código**
 
-<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-<img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />
+**🔁 GitOps & CI/CD**
 
+![ArgoCD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-<br/>
+**🐧 OS & Scripting**
 
----
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🎥 Ultimos videos de Youtube
+## 🖥️ whoami
+
+<div align="center">
+
+![whoami](./assets/whoami.svg)
+
+</div>
+
+## 🎥 Últimos videos de YouTube
 
 <!-- YT:START -->
 - [Me compré unas Quest 3 y terminé construyendo un Iron Man HUD con IA local](https://www.youtube.com/watch?v=YFvQTetQkGg)
@@ -45,10 +67,16 @@
 - [GitOps con ArgoCD y Gitlab-CI](https://www.youtube.com/watch?v=tFxJ4sLFKio)
 <!-- YT:END -->
 
-➡️ [More videos...][yt]
+<div align="right">
+
+➡️ [Ver más videos](https://www.youtube.com/channel/UCh90SEOKMI2Q2ThXjvFrJag)
+
+</div>
 
 ---
 
-[website]: https://kevorojas.com/
-[yt]: https://www.youtube.com/channel/UCh90SEOKMI2Q2ThXjvFrJag
+<div align="center">
 
+**¿Construyendo algo con Kubernetes o GitOps?** Pásate por [kevorojas.com](https://kevorojas.com) 👋
+
+</div>
