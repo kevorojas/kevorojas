@@ -60,11 +60,11 @@ Ingeniero **DevOps / Cloud**. Trabajo con infraestructura en producción: **Kube
 ## 🎥 Últimos videos de YouTube
 
 <!-- YT:START -->
+- [GitOps](https://www.youtube.com/shorts/7tL2ASuh1H8)
+- [¿Tu pipeline tiene acceso a tu clúster? Con GitOps no lo necesita](https://www.youtube.com/shorts/bb-RUmGOn60)
 - [Me compré unas Quest 3 y terminé construyendo un Iron Man HUD con IA local](https://www.youtube.com/watch?v=YFvQTetQkGg)
 - [GitOps en acción: de cluster vacío a configuración base](https://www.youtube.com/watch?v=qc5j60a92uo)
 - [Cómo funciona GitOps con ArgoCD en 2025 &lpar;explicación simple y clara&rpar;](https://www.youtube.com/watch?v=-lLhQIChNhg)
-- [Secrets en git? Parte 1 | GitOps &amp; kube sealed secrets](https://www.youtube.com/watch?v=fcaAaaIQozM)
-- [GitOps con ArgoCD y Gitlab-CI](https://www.youtube.com/watch?v=tFxJ4sLFKio)
 <!-- YT:END -->
 
 <div align="right">
