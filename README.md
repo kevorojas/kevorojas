@@ -60,11 +60,11 @@ Ingeniero **DevOps / Cloud**. Trabajo con infraestructura en producción: **Kube
 ## 🎥 Últimos videos de YouTube
 
 <!-- YT:START -->
+- [Me armé mi propio Jarvis en las Quest 3 #metaquest3 #webxr #claudecode](https://www.youtube.com/shorts/CQVyJhAl398)
+- [Asistente de IA en Meta Quest 3: le pedí un dragón](https://www.youtube.com/watch?v=eAniLy-YehY)
 - [Azure en tu computadora, sin pagar: Floci en 2 minutos](https://www.youtube.com/shorts/GeTJpgcKGhM)
 - [Azure gratis en tu computadora: probé Floci con Terraform](https://www.youtube.com/watch?v=W1Nyz5SuKgM)
 - [GitOps](https://www.youtube.com/shorts/7tL2ASuh1H8)
-- [¿Tu pipeline tiene acceso a tu clúster? Con GitOps no lo necesita](https://www.youtube.com/shorts/bb-RUmGOn60)
-- [Me compré unas Quest 3 y terminé construyendo un Iron Man HUD con IA local](https://www.youtube.com/watch?v=YFvQTetQkGg)
 <!-- YT:END -->
 
 <div align="right">
