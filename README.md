@@ -60,11 +60,11 @@ Ingeniero **DevOps / Cloud**. Trabajo con infraestructura en producción: **Kube
 ## 🎥 Últimos videos de YouTube
 
 <!-- YT:START -->
+- [Tu propio Firebase con Appwrite, en tu computadora #devops](https://www.youtube.com/shorts/x2pGVwWCKyw)
+- [Appwrite: tu propio Firebase en tu computadora con Docker](https://www.youtube.com/watch?v=8SjKCydoR6o)
 - [Me armé mi propio Jarvis en las Quest 3 #metaquest3 #webxr #claudecode](https://www.youtube.com/shorts/CQVyJhAl398)
 - [Asistente de IA en Meta Quest 3: le pedí un dragón](https://www.youtube.com/watch?v=eAniLy-YehY)
 - [Azure en tu computadora, sin pagar: Floci en 2 minutos](https://www.youtube.com/shorts/GeTJpgcKGhM)
-- [Azure gratis en tu computadora: probé Floci con Terraform](https://www.youtube.com/watch?v=W1Nyz5SuKgM)
-- [GitOps](https://www.youtube.com/shorts/7tL2ASuh1H8)
 <!-- YT:END -->
 
 <div align="right">
