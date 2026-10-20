@@ -60,11 +60,11 @@ Ingeniero **DevOps / Cloud**. Trabajo con infraestructura en producción: **Kube
 ## 🎥 Últimos videos de YouTube
 
 <!-- YT:START -->
+- [Arquitectura privada en Azure Container Apps con Terraform | Búnker 1](https://www.youtube.com/watch?v=PFvIYnP9KSs)
 - [Qué es Terraform?](https://www.youtube.com/shorts/SyiLH3FHqV0)
 - [Le pedí a Codex un simulador de Naruto en realidad mixta #metaquest3 #devops #naruto #rasengan](https://www.youtube.com/shorts/_kTNoYJOOA0)
 - [Tu propio Firebase con Appwrite, en tu computadora #devops](https://www.youtube.com/shorts/x2pGVwWCKyw)
 - [Appwrite: tu propio Firebase en tu computadora con Docker](https://www.youtube.com/watch?v=8SjKCydoR6o)
-- [Me armé mi propio Jarvis en las Quest 3 #metaquest3 #webxr #claudecode](https://www.youtube.com/shorts/CQVyJhAl398)
 <!-- YT:END -->
 
 <div align="right">
