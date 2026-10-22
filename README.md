@@ -60,11 +60,11 @@ Ingeniero **DevOps / Cloud**. Trabajo con infraestructura en producción: **Kube
 ## 🎥 Últimos videos de YouTube
 
 <!-- YT:START -->
+- [Una app en Azure que nadie ve desde internet, en Terraform #devops #azure # terraform](https://www.youtube.com/shorts/-GzxP_4VlQY)
+- [Qué es un Pod? #kubernetes #devops #infrastructure #k8s #sysadmin](https://www.youtube.com/shorts/TpLE3ZUbme0)
 - [Qué es Kubernetes? #devops #k8s #kubernetes](https://www.youtube.com/shorts/Ox1RwPhWxOo)
 - [La IA me clonó #devops #terraform #ia #it #clonar #voice](https://www.youtube.com/shorts/Im1HD3sBORc)
 - [Arquitectura privada en Azure Container Apps con Terraform | Búnker 1](https://www.youtube.com/watch?v=PFvIYnP9KSs)
-- [Qué es Terraform?](https://www.youtube.com/shorts/SyiLH3FHqV0)
-- [Le pedí a Codex un simulador de Naruto en realidad mixta #metaquest3 #devops #naruto #rasengan](https://www.youtube.com/shorts/_kTNoYJOOA0)
 <!-- YT:END -->
 
 <div align="right">
