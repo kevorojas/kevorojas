@@ -60,11 +60,11 @@ Ingeniero **DevOps / Cloud**. Trabajo con infraestructura en producción: **Kube
 ## 🎥 Últimos videos de YouTube
 
 <!-- YT:START -->
+- [Windows 7 en Kubernetes #kubernetes #devops #sysadmin #container](https://www.youtube.com/shorts/REHY0MqlSIc)
 - [Qué es un Configmap? #kubernetes #devops #sysadmin #container](https://www.youtube.com/shorts/9hMSDJbNRGo)
 - [PHP, React y Node: fallas graves en ocho días #ciberseguridad #php #nodejs #devops](https://www.youtube.com/shorts/lR6HXt61t6A)
 - [Qué es un service? #kubernetes #sysadmin #devops #service](https://www.youtube.com/shorts/XvKeiEBidXM)
 - [Qué es Git? #devops #github #gitlab #developer #git](https://www.youtube.com/shorts/YoZiKTaXySs)
-- [Qué son StatefulSet y DaemonSet? #kubernetes #devops #k8s #infraestrutura #sysadmin](https://www.youtube.com/shorts/USXfaOi7RuM)
 <!-- YT:END -->
 
 <div align="right">
