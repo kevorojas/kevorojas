@@ -60,11 +60,11 @@ Ingeniero **DevOps / Cloud**. Trabajo con infraestructura en producción: **Kube
 ## 🎥 Últimos videos de YouTube
 
 <!-- YT:START -->
+- [Qué es el ingress? #kubernetes #devops #sysadmin](https://www.youtube.com/shorts/UJFWhemXLDY)
 - [Cómo escalan los sitios que nadie menciona #devops #sysadmin #linux #container](https://www.youtube.com/shorts/eLs7ngVvA-c)
 - [Qué es la terminal? #devops #linux #sysadmin #infrastructure](https://www.youtube.com/shorts/d_GE4ng_tL4)
 - [Qué es un secret? #kubernetes #devops #sysadmin #container](https://www.youtube.com/shorts/z5cdGlw1o2A)
 - [Windows 7 en Kubernetes #kubernetes #devops #sysadmin #container](https://www.youtube.com/shorts/REHY0MqlSIc)
-- [Qué es un Configmap? #kubernetes #devops #sysadmin #container](https://www.youtube.com/shorts/9hMSDJbNRGo)
 <!-- YT:END -->
 
 <div align="right">
