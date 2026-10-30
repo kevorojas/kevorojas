@@ -60,11 +60,11 @@ Ingeniero **DevOps / Cloud**. Trabajo con infraestructura en producción: **Kube
 ## 🎥 Últimos videos de YouTube
 
 <!-- YT:START -->
+- [Cinco comandos de git que casi nadie usa #developer #git #ia #agents #devops](https://www.youtube.com/shorts/KLMHfjWLuVU)
 - [Vulneraron a Binance… y entraron por un DevOps#binance #devops #cripto #seguridad #hacking](https://www.youtube.com/shorts/f0xGlH7dep4)
 - [Cómo sigue Git tus cambios? #devops #github #gitlab #developer #git](https://www.youtube.com/shorts/Lj1dFTMv0TI)
 - [Qué es el ingress? #kubernetes #devops #sysadmin](https://www.youtube.com/shorts/UJFWhemXLDY)
 - [Cómo escalan los sitios que nadie menciona #devops #sysadmin #linux #container](https://www.youtube.com/shorts/eLs7ngVvA-c)
-- [Qué es la terminal? #devops #linux #sysadmin #infrastructure](https://www.youtube.com/shorts/d_GE4ng_tL4)
 <!-- YT:END -->
 
 <div align="right">
