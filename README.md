@@ -60,11 +60,11 @@ Ingeniero **DevOps / Cloud**. Trabajo con infraestructura en producción: **Kube
 ## 🎥 Últimos videos de YouTube
 
 <!-- YT:START -->
+- [Jugué el juego de terror de midudev para programadores @midudev](https://www.youtube.com/shorts/qDKX3DwDeSw)
 - [Cómo moverte en la terminal? #devops #bash #terminal #sysadmin](https://www.youtube.com/shorts/X70qcdiqJvI)
 - [Qué es el Gateway API? #kubernetes #devops #sysadmin #nginx](https://www.youtube.com/shorts/VM1LgjZVoZ4)
 - [Tocaba limpieza del  setup ✨ · #setup #desksetup #devops #homelab #productividad](https://www.youtube.com/shorts/hQCcTVWUf3c)
 - [Cinco comandos de git que casi nadie usa #developer #git #ia #agents #devops](https://www.youtube.com/shorts/KLMHfjWLuVU)
-- [Vulneraron a Binance… y entraron por un DevOps#binance #devops #cripto #seguridad #hacking](https://www.youtube.com/shorts/f0xGlH7dep4)
 <!-- YT:END -->
 
 <div align="right">
