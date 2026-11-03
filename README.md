@@ -60,11 +60,11 @@ Ingeniero **DevOps / Cloud**. Trabajo con infraestructura en producción: **Kube
 ## 🎥 Últimos videos de YouTube
 
 <!-- YT:START -->
+- [Ubuntu y Kali Linux con escritorio en un contenedor #devops #docker #linux #sysadmin #hackingético](https://www.youtube.com/shorts/1cxfDSc522Q)
 - [Qué es CI/CD? #devops #cicd #github #developer](https://www.youtube.com/shorts/lGGdRnpSdK4)
 - [Jugué el juego de terror de midudev para programadores @midudev](https://www.youtube.com/shorts/qDKX3DwDeSw)
 - [Cómo moverte en la terminal? #devops #bash #terminal #sysadmin](https://www.youtube.com/shorts/X70qcdiqJvI)
 - [Qué es el Gateway API? #kubernetes #devops #sysadmin #nginx](https://www.youtube.com/shorts/VM1LgjZVoZ4)
-- [Tocaba limpieza del  setup ✨ · #setup #desksetup #devops #homelab #productividad](https://www.youtube.com/shorts/hQCcTVWUf3c)
 <!-- YT:END -->
 
 <div align="right">
