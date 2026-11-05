@@ -60,11 +60,11 @@ Ingeniero **DevOps / Cloud**. Trabajo con infraestructura en producción: **Kube
 ## 🎥 Últimos videos de YouTube
 
 <!-- YT:START -->
+- [Cómo conectar comandos en la terminal? #devops #linux #terminal #bash](https://www.youtube.com/shorts/paTPfTwkpD4)
+- [Cómo manejar archivos en la terminal? #devops #linux #terminal #bash](https://www.youtube.com/shorts/8FrXycKOheA)
 - [Qué es un HPA? #kubernetes #devops #sysadmin](https://www.youtube.com/shorts/cmMFnkMFcsY)
 - [kubectl, k9s o Lens? con los hashtags del guion: #kubernetes #devops #sysadmin #container](https://www.youtube.com/shorts/I5S-8Rosc2s)
 - [Qué es un servidor? #devops #sysadmin #server #infrastructure](https://www.youtube.com/shorts/TjT_wx6dKS4)
-- [Ubuntu y Kali Linux con escritorio en un contenedor #devops #docker #linux #sysadmin #hackingético](https://www.youtube.com/shorts/1cxfDSc522Q)
-- [Qué es CI/CD? #devops #cicd #github #developer](https://www.youtube.com/shorts/lGGdRnpSdK4)
 <!-- YT:END -->
 
 <div align="right">
