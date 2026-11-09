@@ -60,11 +60,11 @@ Ingeniero **DevOps / Cloud**. Trabajo con infraestructura en producción: **Kube
 ## 🎥 Últimos videos de YouTube
 
 <!-- YT:START -->
+- [CPU, RAM y disco #devops #cpu #ram #infraestructura #programación](https://www.youtube.com/shorts/prZpzGsplG8)
 - [¿Qué es una rama en Git? #git #devops #programacion #github #rutadevops](https://www.youtube.com/shorts/xHqKh2yX9ZM)
 - [Y tú, cómo manejas los permisos? #devops #bash #sysadmin](https://www.youtube.com/shorts/TwruWJrcX8I)
 - [Pregunta de entrevista DevOps: Disco lleno #devops #linux #entrevistadetrabajo #sysadmin](https://www.youtube.com/shorts/4NOCFL9s0nQ)
 - [Cómo conectar comandos en la terminal? #devops #linux #terminal #bash](https://www.youtube.com/shorts/paTPfTwkpD4)
-- [Cómo manejar archivos en la terminal? #devops #linux #terminal #bash](https://www.youtube.com/shorts/8FrXycKOheA)
 <!-- YT:END -->
 
 <div align="right">
