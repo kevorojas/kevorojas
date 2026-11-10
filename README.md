@@ -60,11 +60,11 @@ Ingeniero **DevOps / Cloud**. Trabajo con infraestructura en producción: **Kube
 ## 🎥 Últimos videos de YouTube
 
 <!-- YT:START -->
+- [Que es un sistema operativo? #devops #sysadmin #windows #linux #fyp](https://www.youtube.com/shorts/SnkW35HTVSQ)
+- [Kubernetes desde cero · Parte 1: Deployment, ConfigMap y Secret con minikube](https://www.youtube.com/watch?v=ODVkQi63cyQ)
 - [Pregunta de entrevista DevOps sobre Azure Parte 1 #devops #azure #postgresql #privateendpoint #dns](https://www.youtube.com/shorts/-0f5YTgec7o)
 - [CPU, RAM y disco #devops #cpu #ram #infraestructura #programación](https://www.youtube.com/shorts/prZpzGsplG8)
 - [¿Qué es una rama en Git? #git #devops #programacion #github #rutadevops](https://www.youtube.com/shorts/xHqKh2yX9ZM)
-- [Y tú, cómo manejas los permisos? #devops #bash #sysadmin](https://www.youtube.com/shorts/TwruWJrcX8I)
-- [Pregunta de entrevista DevOps: Disco lleno #devops #linux #entrevistadetrabajo #sysadmin](https://www.youtube.com/shorts/4NOCFL9s0nQ)
 <!-- YT:END -->
 
 <div align="right">
