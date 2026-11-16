@@ -60,11 +60,11 @@ Ingeniero **DevOps / Cloud**. Trabajo con infraestructura en producción: **Kube
 ## 🎥 Últimos videos de YouTube
 
 <!-- YT:START -->
+- [¿Qué es un contenedor? #contenedores #docker #podman #devops](https://www.youtube.com/shorts/dq_gSctYsdk)
 - [Parece chiste pero es anécdota #devops #hackeo #bitcoin #fyp #fypシ゚viral](https://www.youtube.com/shorts/HC0nXVzWDfk)
 - [Qué es la nube? #devops #cloud #sysadmin #azure #aws](https://www.youtube.com/shorts/2Sr74mrIWWk)
 - [Cómo compartir tu código con Git? #git #github #devops #programacion #rutadevops](https://www.youtube.com/shorts/9ShWfvp2wCE)
 - [Emulador oficial de aws #aws #devops #terraform #cloud](https://www.youtube.com/shorts/wx6jFt3Qv-w)
-- [Qué es un merge? #git #devops #developer #sysadmin](https://www.youtube.com/shorts/niLhuogcaTc)
 <!-- YT:END -->
 
 <div align="right">
