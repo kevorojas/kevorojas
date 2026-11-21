@@ -60,11 +60,11 @@ Ingeniero **DevOps / Cloud**. Trabajo con infraestructura en producción: **Kube
 ## 🎥 Últimos videos de YouTube
 
 <!-- YT:START -->
+- [Mis videos son parte de una ruta DevOps](https://www.youtube.com/shorts/k0Et9cPxUjw)
 - [¿Qué es una máquina virtual?](https://www.youtube.com/shorts/NtJ3mlA1DpU)
 - [La computadora de los agentes de IA en Kubernetes](https://www.youtube.com/watch?v=hyA5VxQkAYM)
 - [La computadora de los agentes de IA en Kubernetes #kubernetes #devops #ia #python #sandbox](https://www.youtube.com/shorts/icE91CY9dZg)
 - [COPY o ADD, CMD o ENTRYPOINT #contenedores #docker #podman #devops #dockerfile](https://www.youtube.com/shorts/SnMcspTUmgM)
-- [Qué hay detrás de Vercel: ¿es Kubernetes? #vercel #aws #kubernetes #devops](https://www.youtube.com/shorts/ZfTl9zH6hiI)
 <!-- YT:END -->
 
 <div align="right">
