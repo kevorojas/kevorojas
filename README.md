@@ -60,11 +60,11 @@ Ingeniero **DevOps / Cloud**. Trabajo con infraestructura en producción: **Kube
 ## 🎥 Últimos videos de YouTube
 
 <!-- YT:START -->
+- [Noticias de la semana DevOps · Parte 1 #devops #argocd #gitops #java #docker #github](https://www.youtube.com/shorts/8LRgBoQW1Qs)
 - [Capas y caché #contenedores #docker #podman #devops #dockerfile](https://www.youtube.com/shorts/EVVjgaUsaEs)
 - [Mis videos son parte de una ruta DevOps](https://www.youtube.com/shorts/k0Et9cPxUjw)
 - [¿Qué es una máquina virtual?](https://www.youtube.com/shorts/NtJ3mlA1DpU)
 - [La computadora de los agentes de IA en Kubernetes](https://www.youtube.com/watch?v=hyA5VxQkAYM)
-- [La computadora de los agentes de IA en Kubernetes #kubernetes #devops #ia #python #sandbox](https://www.youtube.com/shorts/icE91CY9dZg)
 <!-- YT:END -->
 
 <div align="right">
